@@ -1,2 +1,2 @@
 # hello-world
-Test repository for learning purpose
+This is Akhil doing making his first repository and am sipping a cup of tea right now.
